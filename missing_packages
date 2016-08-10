@@ -1,0 +1,8 @@
+# If you don't have pip or easy_install (installs both)
+sudo apt-get install python-pip
+
+# Pthreads manpages
+sudo apt-get install manpages-posix manpages-posix-dev
+
+
+
